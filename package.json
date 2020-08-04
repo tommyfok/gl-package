@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "gl-texture2d": "^2.1.0",
+    "gl-transition": "^1.13.0",
+    "gl-transitions": "^1.43.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.44.1"
+  },
+  "name": "gl-package",
+  "description": "打包gl-transition相关的文件，给到小程序用",
+  "version": "1.0.0",
+  "main": "pack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tommyfok/gl-package.git"
+  },
+  "author": "tommyhuo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tommyfok/gl-package/issues"
+  },
+  "homepage": "https://github.com/tommyfok/gl-package#readme"
+}
